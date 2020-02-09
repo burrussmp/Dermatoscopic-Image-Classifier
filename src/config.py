@@ -1,0 +1,2 @@
+BASEDIR = './'
+DATA = './data'
